@@ -1,0 +1,288 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7227092907524668802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6946687082563386753}
+  - component: {fileID: 853528241788864317}
+  m_Layer: 0
+  m_Name: SPS Plug
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6946687082563386753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7227092907524668802}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.47570014, y: 0.00000010485741, z: 0.000000056707872, w: 0.87960756}
+  m_LocalPosition: {x: 0, y: 0.030586869, z: 0.004323601}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 5190730688932138660}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!114 &853528241788864317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7227092907524668802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d4cd252f8c146639507ecd55bc2b48a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+  unityVersion: 2022.3.6f1
+  vrcfuryVersion: 1.987.0
+  autoRenderer: 1
+  autoPosition: 1
+  autoLength: 1
+  useBoneMask: 1
+  textureMask:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  length: 0
+  autoRadius: 1
+  radius: 0
+  name: Dildo_4 (2)
+  unitsInMeters: 0
+  configureTps: 0
+  enableSps: 1
+  spsAutorig: 1
+  spsBlendshapes: []
+  configureTpsMesh: []
+  spsAnimatedEnabled: 1
+  useLegacyRendererFinder: 0
+  addDpsTipLight: 0
+  spsKeepImports: 0
+  postBakeActions:
+    actions: []
+  spsOverrun: 1
+  enableDepthAnimations: 0
+  depthActions: []
+  useHipAvoidance: 1
+  configureSps: 0
+  spsBoneMask: 1
+  spsTextureMask:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  configureTpsMask:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &8370734490463696363
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8530569603527696461}
+  - component: {fileID: 2602594243835949417}
+  m_Layer: 0
+  m_Name: SPS Plug
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8530569603527696461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8370734490463696363}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7217423, y: 0.000000082512145, z: 0.00000008603839, w: 0.6921619}
+  m_LocalPosition: {x: 0, y: 0.009252991, z: 0.010422121}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 7420146280841803311}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!114 &2602594243835949417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8370734490463696363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d4cd252f8c146639507ecd55bc2b48a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+  unityVersion: 2022.3.6f1
+  vrcfuryVersion: 1.987.0
+  autoRenderer: 1
+  autoPosition: 1
+  autoLength: 1
+  useBoneMask: 1
+  textureMask:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  length: 0
+  autoRadius: 1
+  radius: 0
+  name: Dildo_4 (1)
+  unitsInMeters: 0
+  configureTps: 0
+  enableSps: 1
+  spsAutorig: 1
+  spsBlendshapes: []
+  configureTpsMesh: []
+  spsAnimatedEnabled: 1
+  useLegacyRendererFinder: 0
+  addDpsTipLight: 0
+  spsKeepImports: 0
+  postBakeActions:
+    actions: []
+  spsOverrun: 1
+  enableDepthAnimations: 0
+  depthActions: []
+  useHipAvoidance: 1
+  configureSps: 0
+  spsBoneMask: 1
+  spsTextureMask:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  configureTpsMask:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1001 &3825053897200066902
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4293317412775685760, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_Name
+      value: Flexuh_Dildo4_SPS
+      objectReference: {fileID: 0}
+    - target: {fileID: 4293317412775685760, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690260361127320677, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7661885019046474076, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      propertyPath: ignoreTransforms.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 6047478855727814521, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8530569603527696461}
+    - targetCorrespondingSourceObject: {fileID: 9015217235850014706, guid: a453dc09b4e3866429ec8583343717c7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6946687082563386753}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a453dc09b4e3866429ec8583343717c7, type: 3}
+--- !u!4 &5190730688932138660 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9015217235850014706, guid: a453dc09b4e3866429ec8583343717c7,
+    type: 3}
+  m_PrefabInstance: {fileID: 3825053897200066902}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7420146280841803311 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6047478855727814521, guid: a453dc09b4e3866429ec8583343717c7,
+    type: 3}
+  m_PrefabInstance: {fileID: 3825053897200066902}
+  m_PrefabAsset: {fileID: 0}

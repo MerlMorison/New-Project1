@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5633101995162452109
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2850951480353034211}
+  - component: {fileID: 1924957158786620965}
+  m_Layer: 0
+  m_Name: SPS Plug
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2850951480353034211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5633101995162452109}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.5, y: -0.50000006, z: -0.49999997, w: -0.5}
+  m_LocalPosition: {x: 0, y: 0.0178, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 4177430994396628635}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!114 &1924957158786620965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5633101995162452109}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d4cd252f8c146639507ecd55bc2b48a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+  unityVersion: 2022.3.6f1
+  vrcfuryVersion: 1.987.0
+  autoRenderer: 1
+  autoPosition: 1
+  autoLength: 1
+  useBoneMask: 1
+  textureMask:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  length: 0
+  autoRadius: 1
+  radius: 0
+  name: Beads_2
+  unitsInMeters: 0
+  configureTps: 0
+  enableSps: 1
+  spsAutorig: 1
+  spsBlendshapes: []
+  configureTpsMesh: []
+  spsAnimatedEnabled: 1
+  useLegacyRendererFinder: 0
+  addDpsTipLight: 0
+  spsKeepImports: 0
+  postBakeActions:
+    actions: []
+  spsOverrun: 1
+  enableDepthAnimations: 0
+  depthActions: []
+  useHipAvoidance: 1
+  configureSps: 0
+  spsBoneMask: 1
+  spsTextureMask:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  configureTpsMask:
+    version: 1
+    fileID: 0
+    guid: 
+    id: 
+    objRef: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1001 &7641360582500656195
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 188825548570524855, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2650440869703860622, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_Name
+      value: Flexuh_Beads2_SPS
+      objectReference: {fileID: 0}
+    - target: {fileID: 2650440869703860622, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 6049081614978802392, guid: c254421f8388cfe4f928262fc44c96d2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2850951480353034211}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c254421f8388cfe4f928262fc44c96d2, type: 3}
+--- !u!4 &4177430994396628635 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6049081614978802392, guid: c254421f8388cfe4f928262fc44c96d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 7641360582500656195}
+  m_PrefabAsset: {fileID: 0}
